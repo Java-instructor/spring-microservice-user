@@ -11,8 +11,8 @@
 	<groupId>com.java.instructor</groupId>
 	<artifactId>spring.microservice.user</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>UserService</name>
-	<description>spring micro service user service</description>
+	<name>spring.microservice.user</name>
+	<description>spring micro service user service demo</description>
 	<properties>
 		<spring-cloud.version>2021.0.4</spring-cloud.version>
 	</properties>
