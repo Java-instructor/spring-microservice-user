@@ -12,7 +12,7 @@
 	<artifactId>spring.microservice.user</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring.microservice.user</name>
-	<description>spring micro service user service demo</description>
+	<description>spring microservice user service demo</description>
 	<properties>
 		<spring-cloud.version>2021.0.4</spring-cloud.version>
 	</properties>
